@@ -1,0 +1,6 @@
+#homepage robots.txt
+User-agent: *
+Allow: /
+Allow: /img/
+Disallow: /css/
+Disallow: /js/
